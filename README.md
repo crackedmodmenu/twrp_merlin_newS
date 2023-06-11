@@ -1,4 +1,4 @@
-# Android device tree for Redmi Note 9 (Merlinx)
+# Android device tree for Redmi Note 9 (Merlin)
 
 ```
 #
